@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there, I'm Konstantin 👋
+A Frontend developer. My technology stack includes TypeScript, React, Next.js.
 
 <!--
 **wctnz/wctnz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
